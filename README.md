@@ -31,5 +31,5 @@ Um conversor simples de **Real (BRL) para Dólar Americano (USD)** que utiliza u
 
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/conversor-dolar.git
+   git clone https://caique-silvav.github.io/Conversor-de-Moedas/
    cd conversor-dolar
